@@ -18,6 +18,6 @@
 
 ### 📈 GitHub Stats
 ![Younghun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungyounghun&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=60)
-![Younghun's GitHub stats](https://github-readme-stats.vercel.app/api?username=younghun&show_icons=true)
+![Younghun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungyounghun&show_icons=true)
 
 
